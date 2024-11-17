@@ -1,3 +1,3 @@
 # olá mundo!
 
-## este é um pequeno projeto para eu aprender a usar o Git
+## este é um pequeno projeto para que eu aprenda a usar o Git e o GitHub
